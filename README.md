@@ -18,7 +18,7 @@
 6. PenView.cpp의 OnDraw에 아래와 같이 코드 추가
 ![Alt text](_images/6.PNG)
 
-7. 클래스 뷰에서 CPenDoc을 선택 후 OnNewDocument와 Serialize 추가
+7. 클래스 뷰에서 CPenDoc을 선택 후 OnNewDocument와 Serialize 추가  
 ![Alt text](_images/7.PNG)
 
 8. PenDoc.cpp에서 아래와 같이 코드 추가 후 Ctrl+F5
